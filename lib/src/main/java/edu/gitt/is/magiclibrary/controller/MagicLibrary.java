@@ -48,6 +48,7 @@ public class MagicLibrary {
 		log.finest("Acabo de crear un objeto de tipo "+ItemListener.class.getName());
 		MLView.getFrameManager().setEntityMenu("Item", itemListener);
 		log.fine("Terminando el m�todo main");/*Prueb*/
+		/*knmonqonfoqfioqjnfoiqjfiojfio*/
 	}
 
 }
